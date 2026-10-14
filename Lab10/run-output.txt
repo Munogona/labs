@@ -1,0 +1,8 @@
+1 File lines: [Java is object oriented, We study classes, Streams process data, Files persist information, Practice builds confidence]
+2 Odd values: [1, 3, 5, 7]
+3 Lines=5 words=16 characters=115
+4 Class average=73.75, above average: [Amy, Nyasha]
+5 Created sample learners.csv; replace with your real data as needed.
+5 Wrote output/grade-A.csv (2 learners)
+5 Wrote output/grade-B.csv (2 learners)
+5 Wrote output/grade-C.csv (1 learners)

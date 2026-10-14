@@ -1,0 +1,14 @@
+1 Sum=55 max=10 reversed=[9, 3, 6, 1, 7, 4, 10, 5, 2, 8]
+2 Unique names: [Chipo, Rudo, Farai]
+3 peek=Second pop=Second empty=false
+4 Word frequency, descending:
+java -> 3
+is -> 2
+useful -> 2
+and -> 1
+are -> 1
+collections -> 1
+fun -> 1
+5 Integers: [1, 2, 3, 4]
+5 Strings: [apple, orange, pear]
+int[] cannot be used: generics require reference types; Integer[] works.

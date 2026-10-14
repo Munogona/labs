@@ -1,0 +1,17 @@
+1 Printer overloads:
+4
+2.5
+Hello
+[1, 2, 3]
+2 Animal array:
+Meow
+Moo
+Quack
+3 Total payroll: 4200.0
+4 Field: Base; method: Child method
+Fields use declared reference type; overridden instance methods use runtime object type.
+Type-check: card
+Card charged
+Type-check: mobile money
+Mobile money charged
+5 Type checks require edits for each new payment; polymorphic process() supports new payment classes without modifying the processor.

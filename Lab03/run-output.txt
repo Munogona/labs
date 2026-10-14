@@ -1,0 +1,9 @@
+1-2 Chipo grade A
+Invalid marks rejected: marks must be 0-100
+3 [Opening 100.0, Deposit 30.0, Withdrawal 20.0]
+Transaction history protected.
+4 Nyasha, age 23
+final class prevents extension; private final fields prevent reassignment; no setters prevent modification.
+5 25.00C = 77.00F
+Below absolute zero rejected.
+Clients use temperature methods, so its internal storage unit can change without changing client code.

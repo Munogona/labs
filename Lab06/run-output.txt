@@ -1,0 +1,12 @@
+1 Circle area 12.57 perimeter 12.57
+1 Rectangle area 12.00 perimeter 14.00
+1 Square area 25.00 perimeter 20.00
+Bird flying
+Aeroplane flying
+3 Fees: 2.0, 10.0
+4 By name: [Amy=90, Ben=55, Zara=75]
+By marks: [Amy=90, Zara=75, Ben=55]
+5 Resolved default-method clash:
+Hello A
+Hello B
+Two default methods with the same signature must be overridden to resolve the conflict.

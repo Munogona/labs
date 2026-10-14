@@ -1,0 +1,9 @@
+1 Integer division: enter two integers (or press Enter for defaults 10 and 2).
+Result: 5
+2 Array access:
+Index out of bounds: 7
+3 Age must be 0-120: 150
+4 Insufficient funds: balance=50.0
+A checked exception requires callers to handle insufficient funds; returning false is simpler for expected failures but gives less information.
+5 finally runs before the caller receives the return value
+5 Returned: 42

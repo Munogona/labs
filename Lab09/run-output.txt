@@ -1,0 +1,7 @@
+1 LOW: Keep monitoring
+1 MEDIUM: Take precautions
+1 HIGH: Act immediately
+2 Record: Student[name=Tariro, age=21]; equal? true; component: Tariro
+3 HashSet size 1
+4 Linked list: 1 2 3 
+5 Fewest US coins for 87 cents: {QUARTER=3, DIME=1, PENNY=2}

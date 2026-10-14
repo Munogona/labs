@@ -1,0 +1,5 @@
+Java is object oriented
+We study classes
+Streams process data
+Files persist information
+Practice builds confidence

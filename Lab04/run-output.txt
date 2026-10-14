@@ -1,0 +1,12 @@
+1-2 Student and Teacher:
+Rudo (20)
+Moyo (41)
+3 Constructor chain:
+Vehicle constructor
+Car constructor
+ElectricCar constructor
+4 Explicit super argument:
+Animal: Dog
+Animal defines only Animal(String); Java would insert super() in Dog without explicit super("Dog"), causing compilation failure.
+5 Stack popped 20; size 1
+Composition hides ArrayList operations such as adding at arbitrary indexes or clearing the stack unexpectedly.

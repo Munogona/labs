@@ -1,0 +1,16 @@
+Exercise 1 & 2: Cars
+Toyota | 1995 | 210000 km | Antique: true
+Honda | 2019 | 50000 km | Antique: false
+Mazda | 2000 | 160000 km | Antique: true
+Exercise 3: Rectangles
+Area 6.0; perimeter 10.0
+Area 20.0; perimeter 18.0
+Area 8.0; perimeter 18.0
+Area 21.0; perimeter 20.0
+Area 36.0; perimeter 24.0
+Largest area: 36.0
+Exercise 4: Aliasing
+r1.width = 10.0 because r1 and r2 refer to the same object.
+Exercise 5: Composition and null
+Harare
+Null address has no city; check for null first.

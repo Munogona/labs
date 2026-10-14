@@ -1,0 +1,14 @@
+1-2 Circles: 1.0, 3.0; count=2
+3 Employees: 3: Unknown ($0.0) | 4: Farai ($0.0) | 1: Rudo ($700.0) | copy: 2: Rudo ($700.0)
+4 First object:
+static block one
+static block two
+instance block one
+instance block two
+constructor
+4 Second object:
+instance block one
+instance block two
+constructor
+5 32F = 0.0C; 100C = 100.0C
+Static factories clarify whether a value is Fahrenheit or Celsius.
